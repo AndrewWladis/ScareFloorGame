@@ -5,7 +5,7 @@ window.addEventListener('load', function () {
     let wrongRoom = Math.floor(Math.random() * 115000);
     let door = document.getElementById("door");
     let currentScarer = 'Scott Squibbles';
-    let currentScareValue = 25;
+    let currentScareValue = 5;
     let score = 0;
     var fired = false;
 
