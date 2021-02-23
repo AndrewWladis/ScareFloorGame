@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Monster\ AG.ttf);
+}
+
+h1, h5, h4, h3, h2 {
+    font-family: myFirstFont;
+    color: rgb(115, 192, 218);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
